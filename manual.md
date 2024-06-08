@@ -1,6 +1,6 @@
 # pythonについて
 ## numpyについて
-## matplotlibについて
-## pandasについて
 ## osについて
 ## pathについて
+## matplotlibについて
+## pandasについて
